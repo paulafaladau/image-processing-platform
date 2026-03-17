@@ -1,3 +1,6 @@
+## Demo
+
+![Demo](images/demo.png)
 # SEproject — Distributed Image Processing Platform
 
 This repository is a starter structure for a distributed image-processing platform (based on `task.txt`).
